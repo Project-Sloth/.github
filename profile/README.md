@@ -7,6 +7,6 @@
 </div>
 
 ## Project Sloth
-This is where the wonderful sloth team from [loljoshie's Lab](https://discord.gg/loljoshie) come together as one and focus on open source resources for all QBCore communities to enjoy and use!
+This is where the wonderful sloth team from [LJ Labs](https://discord.gg/loljoshie) come together as one and focus on open source resources for all QBCore communities to enjoy and use!
 
 <b>More information coming soon</b>
