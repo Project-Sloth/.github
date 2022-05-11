@@ -14,7 +14,7 @@ This is where the wonderful sloth team from [LJ Labs](https://discord.gg/loljosh
     <img width="auto" src="https://user-images.githubusercontent.com/91661118/153535636-14e854f4-6f97-4cde-a9b8-1004ca0e23b2.png"/>
 </div>
 
-* #### [Join the Lab's Discord Server](https://discord.gg/loljoshie)
+* #### [Join the Lab's Discord Server](https://discord.gg/ljlabs)
 
 <br>
 More information on how to become apart of the team will be coming shortly!
