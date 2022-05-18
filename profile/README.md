@@ -1,31 +1,14 @@
-<div align="middle">
-    <img width="auto" src="https://user-images.githubusercontent.com/91661118/153519337-d2420512-72c6-473e-8013-55a83d30ddf0.png" />
-</div>
-<br>
-<div align="left">
-    <img width="auto" src="https://user-images.githubusercontent.com/91661118/153122057-e0da9bcc-f1c5-407a-9388-0999fc6e80c2.png"/>
-</div>
+![Project Sloth GitHub Banner](https://user-images.githubusercontent.com/91661118/168956591-43462c40-e7c2-41af-8282-b2d9b6716771.png)
 
-## Project Sloth
-This is where the wonderful sloth team from [Project Sloth](https://discord.gg/projectsloth) come together as one and focus on open source resources for all QBCore communities to enjoy and use!
+### Project Sloth
+Passionate developers and designers with a primary focus on providing quality resources and can also be inspired by NoPixel. Our resources are open source and entirely free for all of the FiveM community to enjoy and use.
 
-## Get Involved
-<div align="middle">
-    <img width="auto" src="https://user-images.githubusercontent.com/91661118/153535636-14e854f4-6f97-4cde-a9b8-1004ca0e23b2.png"/>
-</div>
-
-* #### [Join the Discord Server](https://discord.gg/projectsloth)
+More information about this project will be coming shortly.
 
 <br>
-More information on how to become apart of the team will be coming shortly!
-
-## Branding Kit
-<div align="middle">
-    <img width="auto" src="https://user-images.githubusercontent.com/91661118/153536395-ce46cb2b-e6c2-48e4-b559-f391b86e9596.png"/>
-</div>
 <br>
-Every single bit of contribution helps. If you'd like to spread the word about our project or, just want a nifty lookin' Chroma Sloth as your profile appearance; you are more than welcome to use our branding kit! This kit covers almost everything you could need when advertising/promoting with a full PSD of each piece of the branding broken down. You can make some pretty cool stuff :)
 
-* #### [Download Branding Kit](https://drive.google.com/file/d/1_t96spkV0HEgUWDK9mVoKLkAMLaEs41V/view?usp=sharing)
-<br>
-<b>More information coming soon</b>
+![Project Sloth GitHub Sub Branding Kit Banner](https://user-images.githubusercontent.com/91661118/168958335-c73b5b77-2ef5-4a38-8f64-f0bce5790a44.png)
+### Public Branding Kit
+Every single bit of contribution helps. If you'd like to spread the word about our project or just want a nifty lookin' profile; you are more than welcome to use our public branding kit! This kit covers almost everything you could need when advertising/promoting with a full PSD of each piece of the branding broken down. (yes, Slothy is included in a few! He's our mascot after all!)
+* #### [Download here](https://drive.google.com/drive/folders/1gTqMFrMDfuxesCr81zSyM-lDlsLQm94G?usp=sharing)
