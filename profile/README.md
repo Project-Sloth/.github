@@ -25,7 +25,7 @@ Now remember, we aren't automated robots, so reviewing these submissions will ta
 Every single bit of contribution helps. If you'd like to spread the word about our project or just want a nifty lookin' profile; you are more than welcome to use our public branding kit! This kit covers almost everything you could need when advertising/promoting with a full PSD of each piece of the branding broken down.
 * #### [Download here](https://drive.google.com/drive/folders/1gTqMFrMDfuxesCr81zSyM-lDlsLQm94G?usp=sharing)
 
-### [NEED A DISCORD BOT?](https://www.guildabot.com)
+### [Guilda Discord Bot](https://www.guildabot.com)
 ![Frame 39](https://user-images.githubusercontent.com/91661118/219847886-70027718-7342-406c-a04e-855aee5b116e.png)
 ### [Guilda Bot](https://www.guildabot.com/)
 A comprehensive Discord bot that makes managing your community effortless and efficient. With its all-in-one approach, Guilda provides you with everything you need to set up and run your community with ease.
