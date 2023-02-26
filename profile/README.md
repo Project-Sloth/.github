@@ -8,22 +8,6 @@ Passionate developers and designers with a primary focus on providing quality re
 
 ![Project Sloth GitHub Sub Dev App Banner](https://user-images.githubusercontent.com/91661118/169224328-e0bf62e5-4986-4cc2-903a-56c8d01d1e38.png)
 
-### Meet The Team 
-
-<p align="left">
- <a href=https://ko-fi.com/kakarot><img width="450" src=https://github-readme-stats.vercel.app/api?username=MonkeyWhisper&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
- <a href=https://github.com/Z3rio><img width="450" src=https://github-readme-stats.vercel.app/api?username=loljoshie&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
-  <a href=https://github.com/Z3rio><img width="450" src=https://github-readme-stats.vercel.app/api?username=pushkart2&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
-   <a href=https://github.com/Z3rio><img width="450" src=https://github-readme-stats.vercel.app/api?username=darktrovx&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
-   <a href=https://github.com/Z3rio><img width="450" src=https://github-readme-stats.vercel.app/api?username=S1lentcodes&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
-   <a href=https://github.com/Z3rio><img width="450" src=https://github-readme-stats.vercel.app/api?username=jay-fivem&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
-   <a href=https://github.com/Z3rio><img width="450" src=https://github-readme-stats.vercel.app/api?username=xFutte&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
-   <a href=https://github.com/Z3rio><img width="450" src=https://github-readme-stats.vercel.app/api?username=Lionh34rt&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
-   <a href=https://github.com/Z3rio><img width="450" src=https://github-readme-stats.vercel.app/api?username=OK1ez&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
-   <a href=https://github.com/Z3rio><img width="450" src=https://github-readme-stats.vercel.app/api?username=Luceeiy&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
-   <a href=https://github.com/Z3rio><img width="450" src=https://github-readme-stats.vercel.app/api?username=Bunny5578&count_private=true&show_icons=true&title_color=02F1B5&text_color=ffffff&icon_color=02F1B5&hide_border=true&bg_color=23272B&layout=compact&hide_title=false&hide_rank=false><a>
-</p>
-
 ### It's now SUPER easy to apply!
 All you need to do is head on over to our [Project Sloth Discord](https://discord.gg/projectsloth) community and fill out the form application. Don't worry! You never even have to leave Discord. The whole creation process designed for a super easy user experience. Just read through the all questions **thoroughly**, respond with **well-written** and **detailed** answers; then just hit the big green submit button and **BOOM**! You are done. It's never been so easy!
 
