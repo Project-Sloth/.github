@@ -26,7 +26,7 @@ Every single bit of contribution helps. If you'd like to spread the word about o
 * #### [Download here](https://drive.google.com/drive/folders/1gTqMFrMDfuxesCr81zSyM-lDlsLQm94G?usp=sharing)
 
 ![image](https://github.com/Project-Sloth/.github/assets/82112471/cbc302a1-ca1b-4655-889f-19e7f6c65b97)
-[Website]([https://1of1servers.com](https://billing.1of1servers.com/aff.php?aff=1)) | [Discord](https://discord.gg/1of1servers)
+[Website](https://billing.1of1servers.com/aff.php?aff=1) | [Discord](https://discord.gg/1of1servers)
 
 We are a VPS and dedicated server provider, specializing in top-notch features like **advanced DDoS protection**, a reliable network, and unlimited player slots. 
 
