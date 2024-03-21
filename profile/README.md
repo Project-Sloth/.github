@@ -25,6 +25,13 @@ Now remember, we aren't automated robots, so reviewing these submissions will ta
 Every single bit of contribution helps. If you'd like to spread the word about our project or just want a nifty lookin' profile; you are more than welcome to use our public branding kit! This kit covers almost everything you could need when advertising/promoting with a full PSD of each piece of the branding broken down.
 * #### [Download here](https://drive.google.com/drive/folders/1gTqMFrMDfuxesCr81zSyM-lDlsLQm94G?usp=sharing)
 
+![image](https://github.com/Project-Sloth/.github/assets/82112471/cbc302a1-ca1b-4655-889f-19e7f6c65b97)
+[Website]([https://1of1servers.com](https://billing.1of1servers.com/aff.php?aff=1)) | [Discord](https://discord.gg/1of1servers)
+
+We are a VPS and dedicated server provider, specializing in top-notch features like **advanced DDoS protection**, a reliable network, and unlimited player slots. 
+
+With lightning-fast NVMe SSD storage and 20 Gbps internet speed. Our servers guarantee smooth gaming experiences. Enjoy the ease of instant setup, free Windows licenses, and unparalleled support through our Discord channel.
+
 ### [Guilda Discord Bot](https://www.guildabot.com)
 ![Frame 39](https://user-images.githubusercontent.com/91661118/219847886-70027718-7342-406c-a04e-855aee5b116e.png)
 ### [Guilda Bot](https://www.guildabot.com/)
